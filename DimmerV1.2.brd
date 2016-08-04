@@ -890,7 +890,7 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="C1" library="SparkFun-Capacitors" package="0805" value="0.1uF" x="14" y="9.2" rot="R270"/>
+<element name="C1" library="SparkFun-Capacitors" package="0805" value="0.1uF" x="16" y="9.2" rot="R270"/>
 <element name="J1" library="SparkFun-Connectors" package="SCREWTERMINAL-5MM-3" value="AC IN" x="15.5" y="53" rot="R180">
 <attribute name="STOREFRONT_ID" value="PRT-08433" x="15.5" y="53" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
@@ -1053,7 +1053,8 @@ design rules under a new name.</description>
 <wire x1="20.5" y1="8.3" x2="19.2074" y2="8.3" width="0.254" layer="1"/>
 <wire x1="19.2074" y1="9.9" x2="20.5" y2="9.9" width="0.254" layer="1"/>
 <wire x1="20.5" y1="9.9" x2="20.5" y2="8.3" width="0.254" layer="1"/>
-<wire x1="14" y1="8.3" x2="19.2074" y2="8.3" width="0.254" layer="1"/>
+<wire x1="16" y1="8.3" x2="19.2074" y2="8.3" width="0.254" layer="1"/>
+<wire x1="16" y1="8.3" x2="14" y2="8.3" width="0.254" layer="1"/>
 <wire x1="14" y1="8.3" x2="12.13" y2="6.43" width="0.254" layer="1"/>
 <wire x1="12.13" y1="6.43" x2="2.95" y2="6.43" width="0.254" layer="1"/>
 <contactref element="J3" pad="2"/>
